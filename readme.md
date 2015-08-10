@@ -5,7 +5,7 @@ the main porpose is learning.
 
 ## Setup
 
-after downloadin the files you need two things
+after downloading the files you need two things
 
 **first: composer**
 
@@ -17,7 +17,7 @@ download and setup composer then from terminal at root folder run `composer inst
 
 you need [bower](http://bower.io/) to download and install the necessary files for Frontend
 
-download and setup boser then from terminal at public folder run `bower install`
+download and setup bower then from terminal at public folder run `bower install`
 
 ### License
 
