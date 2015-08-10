@@ -1,27 +1,24 @@
-## Laravel PHP Framework
+## Time Tracker
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+this is a small web app made with [angularJS](https://angularjs.org/) & [Laravel-5.1](http://laravel.com/)
+the main porpose is learning.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## Setup
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+after downloadin the files you need two things
 
-## Official Documentation
+**first: composer**
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+you need [composer](https://getcomposer.org/) to download and install the necessary files for [Laravel-5.1](http://laravel.com/)
 
-## Contributing
+download and setup composer then from terminal at root folder run `composer install`
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+**second: bower**
 
-## Security Vulnerabilities
+you need [bower](http://bower.io/) to download and install the necessary files for Frontend
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+download and setup boser then from terminal at public folder run `bower install`
 
 ### License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Time Tracker Project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
